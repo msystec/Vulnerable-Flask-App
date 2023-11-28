@@ -1,4 +1,4 @@
-FROM python:2.7.14-jessie
+FROM python:3.13-rc-slim
 
 WORKDIR /apps/
 
